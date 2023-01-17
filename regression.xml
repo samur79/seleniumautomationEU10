@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testing.org/testing-1.0.dtd">
+
+<suite name="regression suite">
+    <test name="selenium test">
+        <classes>
+<class name="cydeo.SelfStudy.DataProviders"></class>
+
+        </classes>
+    </test>
+    <packages>
+
+    </packages>
+
+</suite>
